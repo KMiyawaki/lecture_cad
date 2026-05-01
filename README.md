@@ -22,7 +22,8 @@
 
 ## 製作手順
 
-[ペン立て](./pen_holder/pen_holder.md)
+- [マグネット](./magnet/magnet.md)
+- [ペン立て](./pen_holder/pen_holder.md)
 
 ## サインアウト
 
